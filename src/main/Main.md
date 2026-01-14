@@ -11,3 +11,6 @@ Enter your name here: Jackson Turco
 1. DOg
 2. Raccoon
 3. Shrimp
+4. Axolotl
+5. Bonobo
+6. Capybara

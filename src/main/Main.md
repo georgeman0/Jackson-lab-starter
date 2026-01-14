@@ -8,6 +8,6 @@ Enter your name here: Jackson Turco
 
 ## The best animals
 
-1. Cuttlefish
-2. Platypus
-3. Three-toed sloth
+1. DOg
+2. Raccoon
+3. Shrimp
